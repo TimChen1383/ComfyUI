@@ -9,7 +9,7 @@
 ### Change Cloth
 ![ChangeClothl](https://github.com/user-attachments/assets/ec3a7404-27c5-46b3-a174-2b288554dbfe)
 
-### Repaint Area
+### Repaint Area (can be also used for removing water mark)
 ![RepaintArea](https://github.com/user-attachments/assets/9639cb56-431a-449d-83a4-02bd7b74bbc5)
 
 ### Expand Border
