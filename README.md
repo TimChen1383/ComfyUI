@@ -11,3 +11,6 @@
 
 ### Repaint Area
 ![RepaintArea](https://github.com/user-attachments/assets/9639cb56-431a-449d-83a4-02bd7b74bbc5)
+
+### Expand Border
+![ExpandBorder](https://github.com/user-attachments/assets/fc8a977f-4521-4a6d-8108-c24080150b3a)
