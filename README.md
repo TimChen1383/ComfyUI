@@ -20,3 +20,7 @@
 
 ### Control Layer
 ![ControlLayer](https://github.com/user-attachments/assets/4c48a2db-e367-447b-b560-ac56364ce18f)
+
+### Prompt Find Object
+![PromptFindObject](https://github.com/user-attachments/assets/ad4e1de0-11f1-423b-b546-b93e818412b9)
+
