@@ -17,3 +17,6 @@
 
 ### Upscale Image
 ![UpScaleImage_](https://github.com/user-attachments/assets/1f6d46aa-06e2-4a9d-a145-edd6d79f8b98)
+
+### Control Layer
+![ControlLayer](https://github.com/user-attachments/assets/4c48a2db-e367-447b-b560-ac56364ce18f)
