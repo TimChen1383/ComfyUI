@@ -14,3 +14,6 @@
 
 ### Expand Border
 ![ExpandBorder](https://github.com/user-attachments/assets/fc8a977f-4521-4a6d-8108-c24080150b3a)
+
+### Upscale Image
+![UpScaleImage_](https://github.com/user-attachments/assets/1f6d46aa-06e2-4a9d-a145-edd6d79f8b98)
