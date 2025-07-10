@@ -29,3 +29,6 @@
 
 ### Consist Multi View
 ![ConsistMultiView](https://github.com/user-attachments/assets/61747eb8-b279-4f48-870e-9463599e3041)
+
+### 360 Rotate
+![Wan_Lora](https://github.com/user-attachments/assets/ac9e5198-c473-41e0-a8a7-f405bb7ddab3)
