@@ -35,6 +35,10 @@
 ### Prompt Find Object
 ![PromptFindObject](https://github.com/user-attachments/assets/ad4e1de0-11f1-423b-b546-b93e818412b9)
 
+### IPAdaptor(keep the style)
+![IPApdator](https://github.com/user-attachments/assets/12370928-1826-4be5-a4b8-f5ef4d69efd3)
+
+
 
 
 
