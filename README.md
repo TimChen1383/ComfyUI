@@ -1,4 +1,7 @@
 # ComfyUI
+### Panorama
+<img width="1281" height="366" alt="Panorama" src="https://github.com/user-attachments/assets/42bae8cc-a39f-4a62-9394-9ac34a9feae6" />
+
 ### Pose To Pose
 ![PoseToPose](https://github.com/user-attachments/assets/c879b737-a0e4-46a0-a7e0-c0df5bb4e272)
 
